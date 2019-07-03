@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  font-family: 'Staatliches', cursive;
+  font-size: 50px;
+}
+.container {
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+  display: block;
+}
+
+h2 {
+
+}
+
+button {
+  width:100px;
+  height: 50px;
+  border-radius: 100px;
+  font-family: 'Roboto Slab', serif;
+}
+
+#answer {
+  font-size: 30px;
+}
+
+.block {
+  display: block;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
